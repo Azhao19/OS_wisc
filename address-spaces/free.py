@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# Citation: https://apple.stackexchange.com/questions/4286/is-there-a-mac-os-x-terminal-version-of-the-free-command-in-linux-systems
 import subprocess
 import re
 
